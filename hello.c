@@ -10,16 +10,13 @@
 
 
 // Part 2:  What is the name of the function that C always runs when it starts?
-
-
-  // Part 3:  How do you print a phrase?
   
   
-  // Part 4:  What does the main function always return?
-  
+// Part 3:  What does the main function always return?
 
+// Part 4:  Write the code.
 
-// Part 5:  By the time you get here, you are done.  
+// Part 5:  Compile, run, then submit your code to zyBooks.
 // Open a terminal (in Visual Studio Code, Go to Terminal --> New Terminal)
-//     - Type: gcc -Wall -Werror <filename> -o lab01
-//     - Type: ./lab01 to run your program
+//     - Type: gcc -Wall -Werror -o a.out -lm
+//     - Type: ./a.out to run your program
